@@ -1,0 +1,60 @@
+[
+    {
+        "position": "Software Developer II",
+        "details": [
+            {
+                "organization": "ALSAC",
+                "location": "Memphis, TN",
+                "started": "2018",
+                "ended": "Present"
+            },
+            {
+                "organization": "Cook Systems Contract w/ ALSAC ",
+                "location": "Memphis, TN",
+                "started": "2017",
+                "ended": "2018"
+            }
+        ],
+        "accomplishments": [
+            "Introduced the Single Page Application (SPA) concept to the platform with an emphasis on new applications being built in ReactJS",
+            "Refactored and redesigned Event Central (EC) to use a React + Redux front end, .Net Core Api, on top of Sql Server database to replace a legacy monolithic .Net MVC app",
+            "Collaborated with team members and management to establish code quality standards within the platform that previously did not exist",
+            "Initiated a unit test coverage target of 80% with front end applications using Jest and implemented Cypress tests for regression and end to end testing.",
+            "Developed a chrome extension in ReactJS to allow devices to integrate with an internal donation site on Chromebooks"
+        ]
+    },
+    {
+        "position": "IT Developer/Engineer II",
+        "details": [
+            {
+                "organization": "Hewlett-Packard",
+                "location": "Austin, TX",
+                "started": "2013",
+                "ended": "2016"
+            }
+        ],
+        "accomplishments": [
+            "Developed a multi-platform mobile sales application catering to over 13,000 sales representatives using Apache Cordova, AngularJS, and Telerik",
+            "Optimized development workflow using JavaScript with Node, Grunt, and Bower",
+            "Worked closely with third-party vendors including Microsoft to better incorporate a mobile development platform and beta tested Tools for Apache Cordova plugin for Visual Studio and provide feedback",
+            "Migrated the development workflow from a waterfall SDLC to a more agile approach using continuous integration and continuous deployment using tools like Jenkins and Electric Commander",
+            "Led an innovation initiative of proof of concept projects on how to include up and coming technologies into our app such as using Hadoop for predictive sales analytics and Docker for automation and scalability"
+        ]
+    },
+    {
+        "position": "Systems Analyst",
+        "details": [
+            {
+                "organization": "Sedgwick Claims Management Services, Inc.",
+                "location": "Memphis, TN",
+                "started": "2011",
+                "ended": "2013"
+            }
+        ],
+        "accomplishments": [
+            "Created and maintained tables and views within Toad and Oracle to query data",
+            "Streamlined business processes to increase efficiency in reporting and data analysis",
+            "Managed insurance carrier reconciliations for 1,300 clients during a two-year migration into the Sedgwick system"
+        ]
+    }
+]
