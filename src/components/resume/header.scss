@@ -1,0 +1,17 @@
+@import '../../sass/palette.scss';
+
+.resume-header {
+    background-color: $color1;
+    height: 100px;
+    padding: 1em;
+    color: #ffffff;
+
+    .name {
+        font-size: 3em;
+    }
+
+    .title {
+        font-size: 1.5em;
+    }
+}
+
