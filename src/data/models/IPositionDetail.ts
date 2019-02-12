@@ -1,6 +1,6 @@
-export interface IExperienceDetails {
+export interface IPositionDetail {
     organization: string;
     location: string;
     started: number;
-    ended: number;
+    ended?: number;
 }

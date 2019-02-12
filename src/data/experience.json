@@ -5,14 +5,14 @@
             {
                 "organization": "ALSAC",
                 "location": "Memphis, TN",
-                "started": "2018",
-                "ended": "Present"
+                "started": 2018,
+                "ended": 0
             },
             {
                 "organization": "Cook Systems Contract w/ ALSAC ",
                 "location": "Memphis, TN",
-                "started": "2017",
-                "ended": "2018"
+                "started": 2017,
+                "ended": 2018
             }
         ],
         "accomplishments": [
@@ -29,8 +29,8 @@
             {
                 "organization": "Hewlett-Packard",
                 "location": "Austin, TX",
-                "started": "2013",
-                "ended": "2016"
+                "started": 2013,
+                "ended": 2016
             }
         ],
         "accomplishments": [
@@ -47,8 +47,8 @@
             {
                 "organization": "Sedgwick Claims Management Services, Inc.",
                 "location": "Memphis, TN",
-                "started": "2011",
-                "ended": "2013"
+                "started": 2011,
+                "ended": 2013
             }
         ],
         "accomplishments": [

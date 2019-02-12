@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
-import './sass/App.scss';
+import { Experience } from './components/resume/Experience';
 import { Header } from './components/resume/Header';
+import positions from './data/experience.json';
+import './sass/App.scss';
 
 class App extends Component {
     render() {
@@ -11,6 +12,7 @@ class App extends Component {
                     name={{ first: 'Graham', last: 'Rogers' }}
                     title="Software Developer"
                 />
+                <Experience positions={positions} />
             </div>
         );
     }
