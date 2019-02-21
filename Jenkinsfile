@@ -4,7 +4,7 @@ pipeline {
     stage('Build') {
       steps {
         sh 'npm -v'
-        sh 'ls ./'
+        sh 'pwd'
       }
     }
   }
